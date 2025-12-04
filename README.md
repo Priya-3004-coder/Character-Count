@@ -2,6 +2,17 @@
 
 A simple Java Swing application that counts characters and words in text with customizable colors.
 
+## Screenshots
+
+### Main Application Window
+![Main Window](images/Screenshot-main.png)
+
+### Demo with Text
+![Demo](images/Screenshot-demo.png)
+
+### Results Display
+![Results](images/Screenshot-result.png)
+
 ## Features
 
 - **Character Count**: Displays the total number of characters in the text
